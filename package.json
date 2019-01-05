@@ -1,0 +1,29 @@
+{
+  "name": "proyectogcd",
+  "version": "0.0.1",
+  "description": "gestor de cobros diarios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "CRUD",
+    "REST",
+    "MVC",
+    "MongoDB",
+    "GESTOR"
+  ],
+  "author": "@luislandero",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-method-override": "0.0.3",
+    "jade": "^1.11.0",
+    "mongoose": "^5.4.2",
+    "morgan": "^1.9.1",
+    "responsimple": "^1.0.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
